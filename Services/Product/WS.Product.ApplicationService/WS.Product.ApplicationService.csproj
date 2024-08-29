@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Shared\WS.Constant\WS.Constant.csproj" />
     <ProjectReference Include="..\..\Shared\WS.Shared.ApplicationService\WS.Shared.ApplicationService.csproj" />
     <ProjectReference Include="..\WS.Product.Dtos\WS.Product.Dtos.csproj" />
     <ProjectReference Include="..\WS.Product.Infrastructure\WS.Product.Infrastructure.csproj" />
