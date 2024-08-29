@@ -12,5 +12,9 @@
     <ProjectReference Include="..\WS.Product.Infrastructure\WS.Product.Infrastructure.csproj" />
   </ItemGroup>
 
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+	</ItemGroup>
+
 </Project>
 
