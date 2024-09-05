@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WS.Product.ApplicationService.ProductManagerModule.Abstracts
 {
-    internal interface IProductService
+    public interface IProductService
     {
     }
 }
